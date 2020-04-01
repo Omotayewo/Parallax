@@ -1,0 +1,75 @@
+section{
+	padding: 40px;
+	margin: 0px;
+}
+div{
+	margin: 80px;
+	letter-spacing: 4px;
+	padding: 0px;
+}
+.one{
+	background-image: url("/storage/emulated/0/Parallax/LOM.jpeg");
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-position:center;
+	background-attachment: fixed;
+}
+.two{
+	background-image: url("/storage/emulated/0/Parallax/Camelot.jpeg");
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-position:center;
+	background-attachment: fixed;
+}
+.three{
+	background-image: url("/storage/emulated/0/Parallax/HNM.jpeg");
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-position:center;
+	background-attachment: fixed;
+}
+.four{
+	background-image: url("/storage/emulated/0/Parallax/Merlin.jpeg");
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-position:center;
+	background-attachment: fixed;
+}
+div p{
+	color: white;
+}
+.five{
+	margin: 80px;
+}
+.five p{
+	color: white;
+	letter-spacing: 8px;
+	text-align: center;
+}
+body p{
+	color: white;
+}
+p a{
+	color: red;
+}
+p a:visited{
+	color: blue;
+}
+body{
+	margin: 0px;
+	background-color: black;
+}
+html{
+	height: 100%;
+}
+@media screen and (min-width: 480px) {
+	div{
+		text-align: center;
+	}
+	section{
+		padding: 100px;
+	}
+	body{
+		font-size: 20px;
+	}
+}
