@@ -8,28 +8,28 @@ div{
 	padding: 0px;
 }
 .one{
-	background-image: url("/storage/emulated/0/Parallax/LOM.jpeg");
+	background-image: url("LOM.jpeg");
 	background-repeat:no-repeat;
 	background-size: cover;
 	background-position:center;
 	background-attachment: fixed;
 }
 .two{
-	background-image: url("/storage/emulated/0/Parallax/Camelot.jpeg");
+	background-image: url("Camelot.jpeg");
 	background-repeat:no-repeat;
 	background-size: cover;
 	background-position:center;
 	background-attachment: fixed;
 }
 .three{
-	background-image: url("/storage/emulated/0/Parallax/HNM.jpeg");
+	background-image: url("HNM.jpeg");
 	background-repeat:no-repeat;
 	background-size: cover;
 	background-position:center;
 	background-attachment: fixed;
 }
 .four{
-	background-image: url("/storage/emulated/0/Parallax/Merlin.jpeg");
+	background-image: url("Merlin.jpeg");
 	background-repeat:no-repeat;
 	background-size: cover;
 	background-position:center;
